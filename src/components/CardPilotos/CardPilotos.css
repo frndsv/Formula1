@@ -1,0 +1,157 @@
+#cardPiloto {
+    text-align: center;
+    margin: 10px;
+    width: 400px; 
+    box-sizing: border-box; 
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    margin-bottom: 40px;
+
+  }
+  
+  
+  
+  .mercedes {
+    background-color: #00f5d0;
+    color: white;
+  }
+  .redbull {
+    background-color: rgb(54 113 198);
+    color: white;
+
+  }
+  .ferrari {
+    background-color: rgb(232 0 32);
+    color: white;
+  }
+  .mclaren {
+    background-color: rgb(255 128 0);
+    color: white;
+  }
+  .astonMartin {
+    background-color: #006f62;
+    color: white;
+  }
+  .maquininha {
+    background-color: #1434cb;  
+    color: white;
+  }
+  .sauber {
+    background-color: rgb(0, 231, 1);
+    color: white;
+  }
+  .alpine {
+    background-color: rgb(0 147 204); 
+    color: white;
+  }
+  .haas {
+    background-color: rgb(182 186 189);
+    color: white;
+  }
+  .williams {
+     background-color: rgb(100 196 255);
+    color: white;
+  }
+  
+  .photoPiloto {
+    width: 100%; 
+    display: block;
+    margin: 0 auto 10px; 
+
+
+  
+  }
+
+  
+  
+  .info-piloto {
+      text-align: center; 
+      padding-top: 0px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 15px;
+      text-align: justify;
+  }
+  
+  .info-piloto h3{
+    font-size: 20px;
+    font-weight: normal;
+  }
+
+  #cardPiloto h1 {
+    font-size: 28px;
+    padding: 8px;
+  }  
+
+  .alpine a {
+    color:  rgb(0 147 204);
+  }
+
+  .mercedes a {
+    color:  #00f5d0;
+  }
+
+  .redbull a {
+    color: rgb(54 113 198);
+  }
+
+  .ferrari a  {
+    color: rgb(232 0 32);
+  }
+
+  .mclaren a {
+    color: rgb(255 128 0);
+  }
+
+  .astonMartin a {
+    color: #006f62;
+  }
+
+  .maquininha a {
+    color: #1434cb;  
+  }
+
+  .sauber a {
+    color: rgb(0, 231, 1);
+  }
+
+  .alpine a {
+    color: rgb(0 147 204);
+  }
+
+  .haas a {
+    color: rgb(182 186 189);
+  }
+  .williams a {
+    color: rgb(100 196 255);
+  }
+
+
+  a:hover {
+    color:  white;
+  }
+
+  .infoPage {
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Titillium Web", sans-serif;
+    margin-top: 18px;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: white;
+    width: 10 0%;
+    border: 1.5px solid white;
+    height: 40px; 
+  }
+
+  .infoPage:hover {
+    cursor: pointer;
+    background-color: transparent;
+  }
+
+  
+ 

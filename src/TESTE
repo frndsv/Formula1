@@ -1,0 +1,63 @@
+/* import React, { useState, useEffect } from 'react';
+import { fetchPilotos } from './services/apiPilotos';
+import ListaPilotos from './components/ListaPilotos';
+import Header from './components/Header';
+import './pilotos.css';
+
+const Pilotos = () => {
+  const [pilotos, setPilotos] = useState([]);
+
+  // Função para carregar os pilotos
+  const carregaPilotos = async () => {
+    try {
+      const dadosPilotos = await fetchPilotos();
+      setPilotos(dadosPilotos);
+    } catch (error) {
+      console.error("Erro de acesso api: ", error);
+    }
+  };
+
+  // DUVIDAAAA!!!!!!!
+  // useEffect com um array de dependência vazio para carregar os pilotos uma vez ao iniciar o componente
+  useEffect(() => {
+    carregaPilotos();
+  }, []); // O array vazio assegura que o useEffect só será executado uma vez, equivalente ao componentDidMount
+
+  return (
+    <div>
+      <Header />
+
+      <main>
+        <div className='about-f1'>
+          <h1> O que é a Formula 1? </h1>
+          <p> Ah, a Fórmula 1, onde o cheiro de pneu queimado e o som ensurdecedor dos motores acelerados competem para serem a trilha sonora do adrenalinaço! É como uma dança de velocidade extrema, onde pilotos vestidos de macacões coloridos transformam curvas em arte e retas em autódromos de pura emoção. É como se a velocidade fosse o ingrediente secreto de uma poção mágica que transforma homens comuns em heróis das pistas, desafiando as leis da física e fazendo aerodinâmica parecer poesia moderna. Prepare-se para uma viagem onde o combustível é coragem, a meta é a glória, e cada volta é uma chance de testar os limites do possível. Portanto, agarre-se ao seu assento e prepare-se para uma experiência que vai fazer seu coração acelerar mais rápido que um pit stop no GP do Mónaco!</p>
+        </div>
+      </main>
+
+      <section className='section1'>
+        <div className='more-info'>
+          <div className='card-info'>
+            <h1> Pilotos </h1>
+            <p> A formula 1 é composta por 20 pilotos titulares, divididos em 10 equipes, sendo dois por construtores. Além disso, existem também os reservas que tomam o lugar dos titulares em caso de algum imprevisto! </p>
+          </div>
+          <div className='card-info'>
+            <h1> Equipes </h1>
+            <p> Como dito anteriormente, são 10 equipes. Entre elas, temos times de todos os tipos, desde montadoras famosas dentro e fora da Formula 1, como a Ferrari, até equipes que só existem no esporte, como a Williams </p>
+          </div>
+        </div>
+      </section>
+
+      <div className="app-container">
+        <h1>2024 Driver List</h1>
+        <div className="lists-container">
+          <div className="list">
+            <h2>All drivers</h2>
+            <ListaPilotos pilotos={pilotos} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Pilotos; */

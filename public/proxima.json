@@ -1,0 +1,40 @@
+[
+  {
+    "season": "2024",
+    "round": "13",
+    "url": "https://en.wikipedia.org/wiki/2024_Hungarian_Grand_Prix",
+    "raceName": "Hungarian Grand Prix",
+    "racePage": "https://www.formula1.com/en/racing/2024/hungary",
+    "circuit": {
+      "circuitId": "hungaroring",
+	    "circuitPhoto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Hungary%20carbon.png",
+      "url": "http://en.wikipedia.org/wiki/Hungaroring",
+      "circuitName": "Hungaroring",
+      "location": {
+        "lat": "47.5789",
+        "long": "19.2486",
+        "locality": "Budapest",
+        "country": "Hungary",
+        "countryFlag": "https://media.formula1.com/content/dam/fom-website/manual/races/Hungary/HUNG0001.GIF"
+      }
+    },
+    "date": "2024-07-21",
+    "time": "13:00:00Z",
+    "FirstPractice": {
+      "date": "2024-07-19",
+      "time": "08:30"
+    },
+    "SecondPractice": {
+      "date": "2024-07-19",
+      "time": "12:00"
+    },
+    "ThirdPractice": {
+      "date": "2024-07-20",
+      "time": "07:30"
+    },
+    "Qualifying": {
+      "date": "2024-07-20",
+      "time": "11:00"
+    }
+  }
+]

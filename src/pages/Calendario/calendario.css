@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  ::selection {
+    background-color: rgb(225 6 0);
+    color: white;
+  }
+  
+  body {
+    /*  font-family: "Poppins", sans-serif; */
+    font-family: "Titillium Web", sans-serif;
+    background-color: rgb(246 244 240);
+    font-style: normal;
+  }
+
+  .main-calendario {
+    position: relative;
+    background-image: url('../../assets/calendario.jpg');
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+    background-position: center center;
+  }
+  
+  .about-calendario {
+    text-align: center;
+    color: white;
+    position: absolute;
+    font-weight: 600;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .about-calendario h1 {
+    font-size: 40px;
+    
+  }
+  
+  .about-calendario p {
+    text-align: justify;
+    font-size: 20px;
+  }
+  
+  
+  .equipes {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .equipes-content {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  #content-title {
+    font-size: 45px;
+  }
+  
+  .content-title {
+    font-size: 40px;
+  }
+  
+  

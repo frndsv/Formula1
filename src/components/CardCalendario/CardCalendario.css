@@ -1,0 +1,41 @@
+  #cardCalendario {
+    position: relative;
+    text-align: center;
+    margin: 10px;
+    width: 500px; 
+    box-sizing: border-box;  
+    border-radius: 10px;
+    box-shadow: rgb(31, 41, 51) 0px 20px 30px -10px;
+    color: black;
+    margin-bottom: 40px;
+  }   
+
+  
+  
+  .photoCircuito {
+    width: 60%; 
+    display: block;
+    margin: 0 auto 10px;
+  }
+  
+  
+  
+  .info-circuito {
+      text-align: center; 
+      padding-top: 0px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 10px;
+      text-align: justify;
+  }
+  
+  .info-circuito h3{
+    font-size: 20px;
+    font-weight: normal;
+  }
+
+  #cardCalendario h1 {
+    margin-top: 10px;
+    font-size: 28px;
+  }  
+ 

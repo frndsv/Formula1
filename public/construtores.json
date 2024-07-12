@@ -1,0 +1,114 @@
+[
+  {
+    "drivers": "Esteban Ocon e Pierre Gasly",
+    "teamphoto": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/alpine.png",
+    "teamPage": "https://www.formula1.com/en/teams/alpine",
+    "constructorId": "alpine",
+    "car": "A524",
+    "engine": "Renault",
+    "url": "http://en.wikipedia.org/wiki/Alpine_F1_Team",
+    "name": "BWT Alpine F1 Team",
+    "nationality": "French"
+  },
+  {
+    "drivers": "Lance Stroll e Fernando Alonso",
+    "teamphoto": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/aston-martin.png",
+    "teamPage": "https://www.formula1.com/en/teams/aston-martin",
+    "constructorId": "aston_martin",
+    "car": "AMR24",
+    "engine": "Mercedes",
+    "url": "http://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
+    "name": "Aston Martin Aramco F1 Team",
+    "nationality": "British"
+  },
+  {
+    "drivers": "Charles Leclerc e Carlos Sainz",
+    "teamphoto": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/ferrari.png",
+    "teamPage": "https://www.formula1.com/en/teams/ferrari",
+    "constructorId": "ferrari",
+    "car": "SF-24",
+    "engine": "Ferrari",
+    "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
+    "name": "Scuderia Ferrari",
+    "nationality": "Italian"
+  },
+  {
+    "drivers": "Nico Hulkenberg e Kevin Magnussen",
+    "teamphoto": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/haas.png",
+    "teamPage": "https://www.formula1.com/en/teams/haas",
+    "constructorId": "haas",
+    "car": "VF-24",
+    "engine": "Ferrari",
+    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+    "name": "MoneyGram Haas F1 Team",
+    "nationality": "American"
+  },
+  {
+    "drivers": "Lando Norris e Oscar Piastri",
+    "teamphoto": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/mclaren.png",
+    "teamPage": "https://www.formula1.com/en/teams/mclaren",
+    "constructorId": "mclaren",
+    "car": "MCL38",
+    "engine": "Mercedes",
+    "url": "http://en.wikipedia.org/wiki/McLaren",
+    "name": "McLaren Formula 1 Team",
+    "nationality": "British"
+  },
+  {
+    "drivers": "Lewis Hamilton e George Russell",
+    "teamphoto": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/mercedes.png",
+    "teamPage": "https://www.formula1.com/en/teams/mercedes",
+    "constructorId": "mercedes",
+    "car": "W15",
+    "engine": "Mercedes",
+    "url": "http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
+    "name": "Mercedes-AMG PETRONAS F1 Team",
+    "nationality": "German"
+  },
+  {
+    "drivers": "Yuki Tsunoda e Daniel Ricciardo",
+    "teamphoto": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/rb.png",
+    "teamPage": "https://www.formula1.com/en/teams/rb",
+    "constructorId": "rb",
+    "car": "VCARB 01",
+    "engine": "Honda RBPT",
+    "url": "http://en.wikipedia.org/wiki/RB_Formula_One_Team",
+    "name": "Visa Cash App RB Formula One Team",
+    "nationality": "Italian"
+  },
+  {
+    "drivers": "Max Verstappen e Checo Perez",
+    "teamphoto": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/red-bull-racing.png",
+    "teamPage": "https://www.formula1.com/en/teams/red-bull-racing",
+    "constructorId": "red_bull",
+    "car": "RB20",
+    "engine": "Honda RBPT",
+    "url": "http://en.wikipedia.org/wiki/Red_Bull_Racing",
+    "name": "Oracle Red Bull Racing",
+    "nationality": "Austrian"
+  },
+  {
+    "drivers": "Valtteri Bottas e Guanyu Zhou",
+    "teamphoto": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/kick-sauber.png",
+    "teamPage": "https://www.formula1.com/en/teams/kick-sauber",
+    "constructorId": "sauber",
+    "car": "C44",
+    "engine": "Ferrari",
+    "url": "http://en.wikipedia.org/wiki/Sauber_Motorsport",
+    "name": "Stake F1 Team Kick Sauber",
+    "nationality": "Swiss"
+  },
+  {
+    "drivers": "Alexander Albon e Logan Sargeant",
+    "teamphoto": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/williams.png",
+    "teamPage": "https://www.formula1.com/en/teams/williams",
+    "constructorId": "williams",
+    "car": "FW46",
+    "engine": "Mercedes",
+    "url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering",
+    "name": "Williams Racing",
+    "nationality": "British"
+  }
+]
+    
+        
